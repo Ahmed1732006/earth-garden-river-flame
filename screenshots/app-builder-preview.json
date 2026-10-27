@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "وعي رقمي",
+      "hasCanvas": false,
+      "bodyTextLen": 977,
+      "bodyTextHash": "22458e0d8218b4c8517385760f4743b5d116c8d4c06a12a75e716086daf7896f",
+      "bodyTextPrefix": "حملة توعية وعي رقمي الدور الأول · 1 من 5 الدور الأول الإدمان الر",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "وعي رقمي",
+      "hasCanvas": false,
+      "bodyTextLen": 903,
+      "bodyTextHash": "e2749eb793fbe7859e36b264e2781aaf08f51998f89bf7be1bee54e221eda78a",
+      "bodyTextPrefix": "حملة توعية وعي رقمي الدور الأول · 1 من 5 الدور الأول الإدمان الر",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

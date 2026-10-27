@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "وعي رقمي",
+      "hasCanvas": false,
+      "bodyTextLen": 977,
+      "bodyTextHash": "22458e0d8218b4c8517385760f4743b5d116c8d4c06a12a75e716086daf7896f",
+      "bodyTextPrefix": "حملة توعية وعي رقمي الدور الأول · 1 من 5 الدور الأول الإدمان الر",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "وعي رقمي",
+      "hasCanvas": false,
+      "bodyTextLen": 794,
+      "bodyTextHash": "32d063cc10ddf2bdac5ceca4a3cdbab38b0d4ff73e38cdddc8549409b20330d4",
+      "bodyTextPrefix": "حملة توعية وعي رقمي الدور الأول · 1 من 5 الدور الأول الإدمان الر",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text changed (903 -> 794 chars, hash mismatch)"
+  ]
+}
